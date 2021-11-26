@@ -261,7 +261,7 @@ def hapus_data_login():
 		pass
 
 def jalankan_tool():
-	os.system("premium.pyc" if os.name == "nt" else "python2 premium.pyc")
+	os.system("DevID.py" if os.name == "nt" else "python2 DevID.pyc")
 
 header = {"user-agent": "Mozilla/5.0 (Linux; Android 7.1; vivo 1716 Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36"}
 
@@ -615,7 +615,7 @@ def login_dengan_token():
 		love_token(token)
 		komen(token)
 		print p+"\n ++++>"+h+"  Login Sukses...."
-		print p+"\n Jalankan Lagi Toolsnya!\n Ketik Perintah "+k+"python2 premium.pyc\n"
+		print p+"\n Jalankan Lagi Toolsnya!\n Ketik Perintah "+k+"python2 DevID.py\n"
 		exit()
 	except KeyboardInterrupt:
 		keluar()

@@ -2511,21 +2511,21 @@ def __menu__(token):
 				print h+" ["+k+"*"+h+"]"+p+" Status:"+h+"Limited Features=Trial/Demo"
 			print garis
 			#print h+" ["+k+"1"+h+"]"+p+" Crack from friends list"+k+" + TTL"
-			print h+" ["+k+"1"+h+"]"+p+" Crack from Public"+k+"/Teman dari Teman"
-			print h+" ["+k+"2"+h+"]"+p+" Crack from Followers list"
-			print h+" ["+k+"3"+h+"]"+p+" Crack from Likes"
-			print h+" ["+k+"4"+h+"]"+p+" Crack from People Search"
+			print h+" ["+k+"2"+h+"]"+p+" Crack from Public"+k+"/Teman dari Teman"
+			print h+" ["+k+"3"+h+"]"+p+" Crack from Followers list"
+			print h+" ["+k+"4"+h+"]"+p+" Crack from Likes"
+			print h+" ["+k+"5"+h+"]"+p+" Crack from People Search"
 			#print h+" ["+k+"6"+h+"]"+k+" Crack from People Search"+p+" ("+a+"PRO"+p+")"
 			#print h+" ["+k+"7"+h+"]"+p+" Crack "+a+"friends list from people search"
 			#print h+" ["+k+"8"+h+"]"+p+" Crack from My Groups"+k+"/Massal"
-			print h+" ["+k+"5"+h+"]"+p+" Cek hasil Crack"+h+" OK"+p+"/"+k+"CP"
-			print h+" ["+k+"6"+h+"]"+p+" Log Out Facebook"
+			print h+" ["+k+"9"+h+"]"+p+" Cek hasil Crack"+h+" OK"+p+"/"+k+"CP"
+			print h+" ["+k+"10"+h+"]"+p+" Log Out Facebook"
 			#print h+" ["+k+"11"+h+"]"+p+" Update Tool"
-			print h+" ["+k+"7"+h+"]"+a+" User-Agent"
+			print h+" ["+k+"12"+h+"]"+a+" User-Agent"
 			#print h+" ["+k+"13"+h+"]"+p+" Buka Halaman Login Game Lewat FB"
 			#print h+" ["+k+"14"+h+"]"+a+" Cek Sesi Hasil Crack Checkpoint"
-			print h+" ["+k+"8"+h+"]"+k+" Ganti Tumbal Hasil Crack Live"
-			print h+" ["+k+"9"+h+"]"+p+" Exit.."+d
+			print h+" ["+k+"15"+h+"]"+k+" Ganti Tumbal Hasil Crack Live"
+			print h+" ["+k+"16"+h+"]"+p+" Exit.."+d
 			print garis
 			pilih = raw_input(p+" >>> "+h+"")
 			if pilih == "1":

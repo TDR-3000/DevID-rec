@@ -18,6 +18,7 @@ $ python2 DevID.py
 Saya Tidak Menyarankan Anda Menggunakan Tool Ini
 Alangkah Lebih Baiknya Anda Membeli Langsung Tool
 Kepada Pembuatnya Secara Langsung Agar Anda Dapat
-Menggunakan Fitur Yang Lebih Lengkap Dan Keterjaminan
-Tool Yang Lebih Baik
+Menggunakan Fitur Yang Lebih Lengkap Dan Kualitas
+Yang Lebih Terjamin
 ````
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/jangan.macem.macem.2)

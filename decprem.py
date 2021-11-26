@@ -2133,10 +2133,10 @@ def auto_dev():
 def __pilih_crack__():
 	try:
 		print garis
-		print h+" ["+k+"1"+h+"]"+p+" Crack"+a+" Login Instagram Lewat Facebook"
-		print h+" ["+k+"2"+h+"]"+p+" Crack"+a+" Login Free Fire"+p+"("+k+"FF"+p+")"+a+" Lewat FB"
-		print h+" ["+k+"3"+h+"]"+p+" Crack"+a+" Login Mobile Legend"+p+"("+k+"MLBB"+p+")"+a+" Lewat FB"
-		print h+" ["+p+"4"+h+"]"+k+" Crack API facebook"+a+"("+p+"fast Cracking"+a+")"+h+">> Super Pro"
+		#print h+" ["+k+"1"+h+"]"+p+" Crack"+a+" Login Instagram Lewat Facebook"
+		#print h+" ["+k+"2"+h+"]"+p+" Crack"+a+" Login Free Fire"+p+"("+k+"FF"+p+")"+a+" Lewat FB"
+		#print h+" ["+k+"3"+h+"]"+p+" Crack"+a+" Login Mobile Legend"+p+"("+k+"MLBB"+p+")"+a+" Lewat FB"
+		#print h+" ["+p+"4"+h+"]"+k+" Crack API facebook"+a+"("+p+"fast Cracking"+a+")"+h+">> Super Pro"
 		print h+" ["+k+"5"+h+"]"+p+" Crack"+h+" Login Lewat facebook Mobile"
 		print h+" ["+k+"6"+h+"]"+p+" Crack"+p+" Login Lewat facebook"+k+" Mbasic"+a+" Pro.."
 		print h+" ["+k+"7"+h+"]"+p+" Crack"+h+" Login Lewat facebook Free"
@@ -2338,16 +2338,16 @@ def cek_cookie():
 
 def banner():
 	print """
-"""+a+"""________            """+p+""".___________   
-"""+a+"""\______ \   _______  _"""+p+"""|   \______ \  
-"""+a+"""|    |  \_/ __ \  \/ /"""+p+""" ||    |  \ 
-"""+a+"""|    `   \  ___/\   /"""+p+"""|   ||    `   \
-"""+a+"""/_______  /\___  >\_/"""+p+"""|___/_______  /
-        \/     \/                 \/  
+"""+a+"""________              .___________   
+"""+a+"""\______ \   _______  _|   \______ \  
+"""+a+""" |    |  \_/ __ \  \/ /   ||    |  \ 
+"""+p+""" |    `   \  ___/\   /|   ||    `   \
+"""+p+"""/_______  /\___  >\_/ |___/_______  /
+"""+p+"""        \/     \/                 \/ 
               
-PREMIUM"""+p+""" {"""+h+"""MBF"""+p+"""}"""+a+""" \/ {"""+k+"""Owner"""+a+""": """+h+"""RamdhanRamadhian"""+a+"""} """
+PREMIUM"""+p+""" {"""+h+"""LIMITED"""+p+"""}"""+a+""" \/ {"""+k+"""Recode"""+a+""": """+h+"""RamdhanRamadhian"""+a+"""} """
  	print h+" >>>"+p+" IP: "+k+ip
- 	print h+" >>>"+p+" Versi: "+h+"9.9"
+ 	print h+" >>>"+p+" Versi: "+h+"0.0"
 def login():
   try:
 	  user_agentzz_ = open("cokie.txt", "r").read()
@@ -2371,8 +2371,8 @@ def login():
 	print h+" ["+p+"1"+h+"]"+p+" Login Dengan FB"+h+" TOKEN"
 	print h+" ["+p+"2"+h+"]"+p+" Login Dengan FB"+h+" Cookie"
 	print h+" ["+p+"3"+h+"]"+p+" Login Dengan FB"+h+" Username & Password"
-	print h+" ["+p+"5"+h+"]"+k+" Cara ambil Cookie FB"
-	print h+" ["+p+"7"+h+"]"+a+" Cek Hasil Crack Checkpoint"
+	#print h+" ["+p+"5"+h+"]"+k+" Cara ambil Cookie FB"
+	#print h+" ["+p+"7"+h+"]"+a+" Cek Hasil Crack Checkpoint"
 	print h+" ["+p+"9"+h+"]"+m+" Exit"+p+"..."
 	print garis
 	pilih = raw_input(h+" ["+k+"?"+h+"]"+p+" Pilih Opsinya Cokk? ")
@@ -2506,24 +2506,24 @@ def __menu__(token):
 							print h+" ["+k+"*"+h+"]"+p+" Waktu: "+h+lim_dev+p+" Hari lagi"
 					
 				else:
-					print h+" ["+k+"*"+h+"]"+p+" Status:"+h+"Premium Forever"
+					print h+" ["+k+"*"+h+"]"+p+" Status:"+h+"Limited"
 			except NameError:
-				print h+" ["+k+"*"+h+"]"+p+" Status:"+h+"Premium Forever"
+				print h+" ["+k+"*"+h+"]"+p+" Status:"+h+"Limited"
 			print garis
-			print h+" ["+k+"1"+h+"]"+p+" Crack from friends list"+k+" + TTL"
+			#print h+" ["+k+"1"+h+"]"+p+" Crack from friends list"+k+" + TTL"
 			print h+" ["+k+"2"+h+"]"+p+" Crack from Public"+k+"/Teman dari Teman"
 			print h+" ["+k+"3"+h+"]"+p+" Crack from Followers list"
 			print h+" ["+k+"4"+h+"]"+p+" Crack from Likes"
-			print h+" ["+k+"5"+h+"]"+p+" Crack from People Search"
-			print h+" ["+k+"6"+h+"]"+k+" Crack from People Search"+p+" ("+a+"PRO"+p+")"
-			print h+" ["+k+"7"+h+"]"+p+" Crack "+a+"friends list from people search"
-			print h+" ["+k+"8"+h+"]"+p+" Crack from My Groups"+k+"/Massal"
+			#print h+" ["+k+"5"+h+"]"+p+" Crack from People Search"
+			#print h+" ["+k+"6"+h+"]"+k+" Crack from People Search"+p+" ("+a+"PRO"+p+")"
+			#print h+" ["+k+"7"+h+"]"+p+" Crack "+a+"friends list from people search"
+			#print h+" ["+k+"8"+h+"]"+p+" Crack from My Groups"+k+"/Massal"
 			print h+" ["+k+"9"+h+"]"+p+" Cek hasil Crack"+h+" OK"+p+"/"+k+"CP"
 			print h+" ["+k+"10"+h+"]"+p+" Log Out Facebook"
-			print h+" ["+k+"11"+h+"]"+p+" Update Tool"
+			#print h+" ["+k+"11"+h+"]"+p+" Update Tool"
 			print h+" ["+k+"12"+h+"]"+a+" User-Agent"
-			print h+" ["+k+"13"+h+"]"+p+" Buka Halaman Login Game Lewat FB"
-			print h+" ["+k+"14"+h+"]"+a+" Cek Sesi Hasil Crack Checkpoint"
+			#print h+" ["+k+"13"+h+"]"+p+" Buka Halaman Login Game Lewat FB"
+			#print h+" ["+k+"14"+h+"]"+a+" Cek Sesi Hasil Crack Checkpoint"
 			print h+" ["+k+"15"+h+"]"+k+" Ganti Tumbal Hasil Crack Live"
 			print h+" ["+k+"16"+h+"]"+p+" Exit.."+d
 			print garis
@@ -2778,7 +2778,7 @@ def __menu__(token):
 									else:
 										tul.write("A+ZZ"+data32w+"A+ZZ"+plat_dev)
 
-								print a+"\n [!]"+p+" Jalankan lagi Toolsnya!\n Ketik Perintah "+k+"python2 premium.pyc\n"
+								print a+"\n [!]"+p+" Jalankan lagi Toolsnya!\n Ketik Perintah "+k+"python2 DevID.py\n"
 								exit()
 							else:
 								print lisen_salah

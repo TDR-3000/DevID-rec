@@ -21,4 +21,4 @@ Kepada Pembuatnya Secara Langsung Agar Anda Dapat
 Menggunakan Fitur Yang Lebih Lengkap Dan Kualitas
 Yang Lebih Terjamin
 ````
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/jangan.macem.macem.2)
+[![Facebook](https://img.shields.io/badge/Facebook-BElI-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/jangan.macem.macem.2)
